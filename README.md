@@ -1,3 +1,4 @@
+hello
 ## Javascript 代码
 
 其中很多都是伪代码的写法，便有回顾和总结。<a href="#referenceData">参考资料</a>
